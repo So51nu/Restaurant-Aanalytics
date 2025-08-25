@@ -80,17 +80,9 @@ Open a Pull Request
 📜 License
 
 This project is licensed under the MIT License.
-<!DOCTYPE html>
-<html>
-<body>
 
-  <h2>Autoplay Video Example</h2>
+Demo of the Project:
+Then Visit: https://drive.google.com/file/d/1Re7HKnt10MAQcQ4HnsT2_-lIWCUc-7Ou/view?usp=drive_link 
 
-  <video width="600" autoplay muted loop>
-    <source src="https://drive.google.com/file/d/1Re7HKnt10MAQcQ4HnsT2_-lIWCUc-7Ou/view?usp=drive_link" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-
-</body>
-</html>
+Thank You
 
