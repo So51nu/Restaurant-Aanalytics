@@ -32,26 +32,7 @@ Charts: Custom chart components for analytics
 
 Package Manager: pnpm
 
-📂 Project Structure
-restaurant-analytics/
-│── app/
-│   ├── globals.css              # Global styles
-│   ├── layout.tsx               # Root layout
-│   ├── page.tsx                 # Home page
-│
-│── components/
-│   ├── restaurant-dashboard.tsx # Main dashboard
-│   ├── restaurant-trends-dashboard.tsx # Trends visualization
-│   ├── theme-provider.tsx       # Dark/Light theme handling
-│   └── ui/                      # Reusable UI components (buttons, cards, dialogs, charts, etc.)
-│
-│── .gitignore                   # Git ignore rules
-│── package.json                 # Dependencies & scripts
-│── pnpm-lock.yaml               # Package lock file
-│── postcss.config.mjs           # PostCSS configuration
-│── tailwind.config.js           # Tailwind setup
-│── tsconfig.json                # TypeScript config
-│── next.config.mjs              # Next.js configuration
+
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
