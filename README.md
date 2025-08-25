@@ -87,7 +87,7 @@ This project is licensed under the MIT License.
   <h2>Autoplay Video Example</h2>
 
   <video width="600" autoplay muted loop>
-    <source src="video.mp4" type="video/mp4">
+    <source src="https://drive.google.com/file/d/1Re7HKnt10MAQcQ4HnsT2_-lIWCUc-7Ou/view?usp=drive_link" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
