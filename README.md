@@ -82,9 +82,6 @@ Open a Pull Request
 This project is licensed under the MIT License.
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Autoplay Video</title>
-</head>
 <body>
 
   <h2>Autoplay Video Example</h2>
