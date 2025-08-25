@@ -80,3 +80,20 @@ Open a Pull Request
 📜 License
 
 This project is licensed under the MIT License.
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Autoplay Video</title>
+</head>
+<body>
+
+  <h2>Autoplay Video Example</h2>
+
+  <video width="600" autoplay muted loop>
+    <source src="video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+</body>
+</html>
+
